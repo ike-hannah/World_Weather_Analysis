@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# World Weather Analysis
+Using the API tools provided by google, I created an app that takes user input for preffered vacation tempratures and outputs a list of cities with hotels that fall in that temprature range. Using googles gmaps function I created maps with marker layers showing all the possible locations as well as creating a propsed South American getaway, consisting of four travel destinations with google maps directions. 
